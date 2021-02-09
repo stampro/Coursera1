@@ -1,3 +1,3 @@
-# Coursera1
+# Coursera
 
 #Test add text to file
